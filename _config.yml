@@ -1,2 +1,17 @@
-title: Philipp Zimmer
+title: <p align="center"> Philipp Zimmer </p>
+
+logo: "/images/philipp-zimmer_portrait.jpg?raw=true"
+
+description:
+  <p align="center">
+  <a href="pdf/cv_philipp-zimmer_feb-2024.pdf">CV</a> |
+  <a href="https://www.linkedin.com/in/pzimmer98mit/">LinkedIn</a> |
+  <a href="https://github.com/philippzi98">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I have recently graduated from a SM in Electrical Engineering & Computer Science and a SM in Technology & Policy at the Massachusetts Institute of Technology. I also hold a SB in Management with a research focus on humanitarian supply chains from Kühne Logistics University.
+  <br><br>
+  </p>
+  
 theme: jekyll-theme-minimal
